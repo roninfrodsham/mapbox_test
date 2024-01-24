@@ -1,6 +1,6 @@
 # Mapbox places test
 
-For this to work create an account and use the localhost api key and store in a `.env` as `VITE_MAPBOX`.
+For this to work, create an account and use the localhost api key and store in a `.env` as `VITE_MAPBOX`.
 
 To run project
 
